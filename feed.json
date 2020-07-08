@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Aethernia",
     "description": "",
-    "home_page_url": "https://matsuoyutani.github.io/Home",
-    "feed_url": "https://matsuoyutani.github.io/Home/feed.json",
+    "home_page_url": "https://MatsuoYutani.github.io",
+    "feed_url": "https://MatsuoYutani.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Ecko Moiré"

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Aethernia</title>
-    <link href="https://matsuoyutani.github.io/Home/feed.xml" rel="self" />
-    <link href="https://matsuoyutani.github.io/Home" />
+    <link href="https://MatsuoYutani.github.io/feed.xml" rel="self" />
+    <link href="https://MatsuoYutani.github.io" />
     <updated>1969-12-31T21:00:00-03:00</updated>
     <author>
         <name>Ecko Moiré</name>
     </author>
-    <id>https://matsuoyutani.github.io/Home</id>
+    <id>https://MatsuoYutani.github.io</id>
 
 </feed>
